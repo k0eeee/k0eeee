@@ -2,6 +2,5 @@ Hi! My name is Chloe, I'm an exchange student from Dublin, Ireland. I'm studying
 
 I'm familiar with working as a team and I'm easy to adapt with different people so hopefully we will get along well! I've had a few past projects here and there - some for modules back home and also personal ones I've worked on with my friends (like mini-games and different web apps). I do have some experience in using GitHub but I'm not too consistent with it, but working in a group project I'd be happy to communicate and dedicate my time. Looking forward to work with you! :)
 
-HYU Computer Science / 2023025123
-TU858-3 / C23444496
+HYU Computer Science / 2023025123 ~+~ TU858-3 / C23444496
 

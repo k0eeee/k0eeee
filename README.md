@@ -1,6 +1,30 @@
-Hi! My name is Chloe, I'm an exchange student from Dublin, Ireland. I'm studying Computer Science and so I have a bit of experience with different programming languages, but I'd say I'm most comfortable with C and Python. I've also used Java, HTML, CSS, SQL and JavaScript in previous projects, and I've worked on Linux in previous models too, but for anything that I'm out of practice for, I'll do my best to catch up as we go along. :D
+# Hi, I'm Chloe
 
-I'm familiar with working as a team and I'm easy to adapt with different people so hopefully we will get along well! I've had a few past projects here and there - some for modules back home and also personal ones I've worked on with my friends (like mini-games and different web apps). I do have some experience in using GitHub but I'm not too consistent with it, but working in a group project I'd be happy to communicate and dedicate my time. Looking forward to work with you! :)
+I'm a final-year Computer Science student at TU Dublin, graduating in 2027! I like building things end to end, from the database and API through to the screen people actually use.
 
-HYU Computer Science / 2023025123 ~+~ TU858-3 / C23444496
+## Where I've studied
 
+**TU Dublin (2023 to 2027).** BSc (Hons) Computer Science (International). My first two years covered the core of computing: algorithms and data structures, object-oriented programming, databases, operating systems and web development.
+
+**Hanyang University ERICA, South Korea (2025 to 2026).** I spent my third year on a double degree programme in Korea. I took Machine Learning, NLP, System Programming and Advanced Databases (where I built a buffer pool manager and a concurrent B+ tree in C++), led two team projects, and got an A+ in both capstone modules. Studying in a new country and language, with teammates from all over the world, taught me a lot about adapting quickly and communicating clearly.
+
+## Projects
+
+- **CineGraph**: a full-stack movie recommender over 100k+ ratings. I built the FastAPI backend and the full frontend, including a force-directed graph drawn from scratch on HTML5 Canvas. I led a team of four.
+- **Space Invaders, two-player mode**: a co-op mode for a Java codebase shared by 10 student teams, with code reviews and regression testing.
+- **Snake remake**: Java game screens built around a state machine, with JUnit 5 tests.
+- **Gesture recognition**: a team project using Hidden Markov Models implemented from scratch in NumPy to classify motion from 3D sensor data.
+
+## Currently working on
+
+My final year project: a web app that tells independent artists what genre their unreleased music sounds like, and why. I'm comparing an SVM, a CNN and a pretrained music model, and using explainable AI to make the predictions understandable.
+
+## Tools
+
+Python, C, Java, JavaScript, SQL, C++, FastAPI, Git, Linux, JUnit 5, Maven
+
+## Outside of code
+
+Concerts, travelling and reading ~ Always happy to talk about music!
+
+Email: vegigachloe@gmail.com | [LinkedIn](https://www.linkedin.com/in/chloe-vegiga)
